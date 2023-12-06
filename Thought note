@@ -1,0 +1,13 @@
+Here is my 4th module assignment on JavaScript Calculator.
+
+The whole project is done using the bootstarp and javascript. 
+
+1. There is and hovering effect on the submit button, 
+   including transform property and text-style.
+
+2. Also the active effect where the text turns to italic style.
+
+3. The borders are provided with different colors and border size.
+
+4. Onchange and Oninput events have been applied to clear the answer field,
+   when there is change in the input fields of number and the operator.
